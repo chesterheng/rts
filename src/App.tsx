@@ -1,9 +1,10 @@
+import UserSearch from "./refs/UserSearch";
 import "./App.css";
 
 function App() {
   return (
     <div>
-      <h1>Hi there!</h1>
+      <UserSearch />
     </div>
   );
 }
